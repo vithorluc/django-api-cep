@@ -132,4 +132,5 @@ zeep==4.1.0
 ```
     python3 manage.py runserver
 ```
+![Monitoramento de Logs](https://drive.google.com/file/d/12TEKpKID7LVq2bh3c_W5Fco3hgQFJP6C/view?usp=sharing)
 
