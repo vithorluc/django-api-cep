@@ -122,3 +122,14 @@ urllib3==1.26.8
 webencodings==0.5.1
 zeep==4.1.0
 ```
+
+## Commands to run the project: 
+
+```
+    pip install requirements.txt
+```
+
+```
+    python3 manage.py runserver
+```
+
